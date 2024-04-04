@@ -6,6 +6,8 @@ other obstructions on the table surface. The robot is free to roam around the su
 from falling to destruction. Any movement that would result in the robot falling from the table must be prevented,
 however further valid movement commands must still be allowed.
 
+
+
 ### Direction
 F = NORTH, EAST, SOUTH, WEST
 
@@ -54,6 +56,9 @@ Output: 3,3,NORTH
 ### VS Code
 - .Net 7.0 Runtime (To install dotnet cli)
 - C# Devkit Extension
+
+### Project Cloning or Download
+- https://github.com/cadalzolc/iress-challange
 
 ### How to run the project in Visual Studio
 - Open solution project
