@@ -1,0 +1,7 @@
+.vs/
+data/bin
+data/obj
+project/bin
+project/obj
+test/bin
+test/obj
