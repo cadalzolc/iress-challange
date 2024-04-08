@@ -75,10 +75,6 @@ Packages:
 - Open node.js root folder in the terminal
 - Open terminal [Command To Run steps]
 
-###
-
--
-
 ### Command To Run
 
 Step 1:
