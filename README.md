@@ -56,9 +56,9 @@ Output: 3,3,NORTH
 The node.js version is build on typescript
 
 Packages:
-
-- @types/node [For strict typing used in typescript]
-- jest [For node.js testing]
+- @types/node
+- jest
+- ts-jest
 
 ### Tools and Requirements
 
@@ -85,14 +85,19 @@ Install NPM Packhes ((node_modules))
 ```
 
 Step 2:
-Run the project
+Run the project and testing the project
 
 ```
-// To create a latest build
-npm build
+//Please see packge.json file for reference
 
-// To start running the project
-npm start
+// Create a latest build
+npm run build
+
+// To start the project
+npm run start
+
+// To test  the project using jest
+npm run test
 ```
 
 # DotNet Project Instructions
