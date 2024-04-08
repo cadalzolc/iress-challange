@@ -78,7 +78,7 @@ Packages:
 ### Command To Run
 
 Step 1:
-Install NPM Packhes ((node_modules))
+Install NPM Packages ((node_modules))
 
 ```node
    npm install
