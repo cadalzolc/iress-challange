@@ -13,10 +13,6 @@ describe("ExecuteCommand", () => {
     };
   });
 
-  it('should display todos', () => {
-    // Test logic here
-  });
-
   test("Example A: PLACE 0,0,NORTH, MOVE, REPORT", () => {
     robot = ExecuteCommand(robot, "PLACE 0,0,NORTH");
     robot = ExecuteCommand(robot, "MOVE");
