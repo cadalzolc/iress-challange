@@ -1,7 +1,12 @@
-.vs/
-data/bin
-data/obj
-project/bin
-project/obj
-test/bin
-test/obj
+#Dotnet Ignore
+.vs/*
+dotnet/data/bin
+dotnet/data/obj
+dotnet/project/bin
+dotnet/project/obj
+dotnet/test/bin
+dotnet/test/obj
+
+#NodeJs Ignore
+nodejs/node_modules
+
