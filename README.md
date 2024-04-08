@@ -75,6 +75,10 @@ Packages:
 - Open node.js root folder in the terminal
 - Open terminal [Command To Run steps]
 
+###
+
+-
+
 ### Command To Run
 
 Step 1:
@@ -82,6 +86,8 @@ Install NPM Packhes ((node_modules))
 
 ```node
    npm install
+   // or this
+   npm i -D @types/jest @types/node typescript jest ts-jest
 ```
 
 Step 2:
